@@ -151,4 +151,5 @@ El FCI es un **vehículo colectivo** administrado por una sociedad gerente que i
 
 ---
 
-*📄 Documento elaborado como caso de uso comparativo — verificar condiciones vigentes con el banco/ALyC y el asesor contable.*
+*📄 Documento elaborado como caso de uso comparativo — verificar condiciones vigentes con el banco/ALyC y el asesor financiero. 
+No es reomendacion de inversion*
