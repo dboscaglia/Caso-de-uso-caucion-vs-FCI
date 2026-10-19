@@ -69,9 +69,9 @@ El FCI es un **vehículo colectivo** administrado por una sociedad gerente que i
 |---|---|---|
 | 💵 **Rentabilidad** | Tasa pactada (TNA) negociable; suele superar levemente al plazo fijo | TIR variable que sigue el mercado de dinero |
 | ⚠️ **Riesgo de capital** | 🟢 Muy bajo: garantía real con valores líquidos | 🟢 Muy bajo: cartera de activos líquidos (no garantizado legalmente) |
-| 💧 **Liquidez** | 🟡 Plazo fijo (desde 1 día); sin rescate anticipado sin penalización | 🟢 Rescate inmediato (D+0/D+1), disponibilidad total |
+| 💧 **Liquidez** | 🟡 Plazo fijo (desde 1 día); sin rescate anticipado sin penalización | 🟢 Rescate inmediato, disponibilidad total |
 | 📅 **Horizonte mínimo** | 1 día | Sin plazo mínimo práctico |
-| 💸 **Costos** | Comisión del agente (negociable, baja) | Comisión de gerencia (deducida de la cuotaparte) |
+| 💸 **Costos** | Comisión del agente + mercado | Comisión de gerencia (deducida de la cuotaparte) |
 | 🧾 **Tributación** | Rendimiento gravado como interés | Ganancia en cuotapartes (sujeto a normas vigentes) |
 | ⚙️ **Complejidad** | 🟠 Operar por cada plazo (rollover manual) | 🟢 Suscripción/rescate automatizable |
 | 🔄 **Administración** | Manual: gestionar cada vencimiento | Automatizada: disponibilidad permanente |
