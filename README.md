@@ -131,7 +131,7 @@ El FCI es un **vehículo colectivo** administrado por una sociedad gerente que i
 
 ## ⚠️ 7. Riesgos y consideraciones
 
-| 🛡️ Riesgo | 🔹Caución | 🔹 FCI |
+| 🛡️ Riesgo | Caución | FCI |
 |---|---|---|
 | 🤝 **Contraparte** | Mitigado por garantía real; verificar calidad de valores pignorados | Residual bajo por diversificación |
 | 🔄 **Reinversión** | Al vencer, la tasa puede haber bajado | Lo absorbe automáticamente (rendimiento variable) |
