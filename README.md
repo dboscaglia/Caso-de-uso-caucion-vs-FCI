@@ -65,7 +65,7 @@ El FCI es un **vehículo colectivo** administrado por una sociedad gerente que i
 
 ## ⚖️ 4. Tabla comparativa
 
-|---|---|---|
+| Cacucion | FCI | 
 | 💵 **Rentabilidad** | Tasa pactada (TNA) negociable; suele superar levemente al plazo fijo | TIR variable que sigue el mercado de dinero |
 | ⚠️ **Riesgo de capital** | 🟢 Muy bajo: garantía real con valores líquidos | 🟢 Muy bajo: cartera de activos líquidos (no garantizado legalmente) |
 | 💧 **Liquidez** | 🟡 Plazo fijo (desde 1 día); sin rescate anticipado sin penalización | 🟢 Rescate inmediato, disponibilidad total |
